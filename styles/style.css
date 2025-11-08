@@ -51,7 +51,7 @@
 .post {
   background-color: var(--background-color);
   border: 2px solid var(--color-main);
-  margin-block-end: 50px;
+  margin-block-end: 49px;
 }
 
 .post_title {
@@ -68,6 +68,8 @@
   aspect-ratio: 1/1;
   border-top: 2px;
   border-bottom: 2px;
+  object-fit: cover;
+  object-position:center;
   border-style: solid;
   border-color: #000000;
 }
