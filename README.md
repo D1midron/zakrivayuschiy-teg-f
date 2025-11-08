@@ -1,1 +1,1 @@
-https://github.com/D1midron/zakrivayuschiy-teg-f
+https://github.com/D1midron/zakrivayuschiy-teg-f https://d1midron.github.io/zakrivayuschiy-teg-f/
